@@ -1,0 +1,9 @@
+{
+  "name": "VibeSocial - Modern Social Ecosystem",
+  "description": "A high-performance social media platform featuring real-time messaging, WebRTC video calls, live streaming, and creator monetization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
